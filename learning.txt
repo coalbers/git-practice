@@ -1,0 +1,1 @@
+In my CIS-177 class, we are currently learning the fundamentals of Git. This involves learning how to navigate Git commands and the overall Github workflow. In this example, we're learning how to create and navigate commiting files through Git.
